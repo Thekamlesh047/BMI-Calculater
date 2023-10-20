@@ -19,7 +19,7 @@ form.addEventListener('submit', function(e){
       results.innerHTML = `BMI IS: ${bmi} you are over Weight`
 
     }else{
-      results.innerHTML = `BMI IS: ${bmi}`
+      results.innerHTML = `BMI IS: ${bmi} NORMAL WEIGHT`
     }
 
     }
